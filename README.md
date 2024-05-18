@@ -45,7 +45,7 @@ co.uk:                   1
 google.co.uk:            1
 ```
 
-## Running the project
+### Running the project
 You can run the project by executing the following command:
 ```
 ./run.sh ./input-samples/input.csv 
